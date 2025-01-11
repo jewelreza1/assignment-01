@@ -1,0 +1,392 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* defolt style */
+.defolt {
+    background-color: #f5f5f5;
+}
+
+/* nav styles */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+
+}
+
+.sign {
+    padding: 10px 15px;
+    background-color: none;
+    border: 1px solid #5e8d79;
+    border-radius: 5px;
+    color: #4a7b65;
+    font-weight: bold;
+}
+
+/* banner container styles */
+
+.banner-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #cfe4d6;
+    width: 1200px;
+    margin: 0 auto;
+    height: 80vb;
+    border-radius: 10px;
+}
+
+.banner-text h4 {
+    color: #87948b;
+    font-size: 20px;
+}
+
+.banner-text h1 {
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: #3a6a51;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Pillars bangladesh 2.0 styles */
+.Pillars {
+    width: 1200px;
+    margin: 80px auto;
+}
+
+.pillar-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.pillar-box1 {
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.box1-img {
+    padding: 10px 0;
+}
+
+.box1 h1 {
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.box1 p {
+    font-size: 14px;
+}
+
+.pillar-box2,
+.pillar-box3,
+.pillar-box4 {
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* The Vision of Future styles */
+.vison-container {
+    width: 1200px;
+    margin: 80px auto;
+
+}
+
+.visionbox {
+    margin-top: 30px;
+    width: 310px;
+    height: 210px;
+    background-color: #dae0f4;
+    padding: 20px 20px 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.visionimg {
+    padding-bottom: 10px;
+}
+
+.visionbox,
+h1 {
+    padding-bottom: 10px;
+}
+
+.visionbox p {
+    padding-bottom: 10px;
+
+}
+
+.vision-btn {
+    padding: 7px 10px;
+    border: none;
+    background-color: #7286f0;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+
+}
+
+.visionbox-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.visionbox2 {
+    margin-top: 30px;
+    width: 310px;
+    height: 210px;
+    background-color: #cfe4d6;
+    padding: 20px 20px 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.visionbox2 h1 {
+    padding-bottom: 10px;
+}
+
+.visionbox2 p {
+    padding-bottom: 10px;
+}
+
+.visionbox3 {
+
+    margin-top: 30px;
+    width: 310px;
+    height: 210px;
+    background-color: #f3edd1;
+    padding: 20px 20px 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.visionbox3 h1 {
+    padding-bottom: 10px;
+}
+
+.visionbox3 p {
+    padding-bottom: 10px;
+}
+
+.vision-btn2 {
+
+    padding: 7px 10px;
+    border: none;
+    background-color: #5ba360;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+}
+
+.vision-btn3 {
+    padding: 7px 10px;
+    border: none;
+    background-color: #ecc851;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+
+}
+
+/* Yunus styles */
+
+.yunus {
+    width: 1200px;
+    margin: 80px auto;
+
+
+}
+
+.yunus-title {
+    width: 1200px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+.younus-pra {
+    margin-top: -40px;
+    line-height: 20px;
+
+}
+
+.yunus-title h1 {
+    padding-top: 20px;
+}
+
+.chief {
+    padding-bottom: 40px;
+}
+
+/* Recent-container styles */
+.Recent-container {
+    width: 1200px;
+    margin: 80px auto;
+
+}
+
+.recnt-text h1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+/* Satellite1 styles */
+.Recent-container {
+    margin-top: 80px;
+}
+
+.Satellite1 {
+    margin-top: 30px;
+    margin: 60px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+.satellite-img1 img{
+    border-radius: 10px;
+}
+.satellite-img1 {
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    padding-right: 40px;
+    padding-left: 5px;
+}
+
+.aljazera {
+    padding-bottom: 10px;
+}
+
+.jareza-text {
+    padding-top: 10px;
+}
+
+.date {
+    padding-right: 15px;
+}
+
+.Satellite-btn {
+    padding: 7px 10px;
+    border: none;
+    background-color: #3a6a51;
+    color: white;
+    font-size: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+.Satellite2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.satellite-img2 {
+    padding-left: 15px;
+    border-radius: 10px;
+}
+.satellite-img2 img{
+    border-radius: 10px;
+}
+
+/* Donate-text styles */
+.Donate-container {
+    width: 1200px;
+    margin: 80px auto;
+    text-align: center;
+}
+
+.Donate-text {
+    text-align: center;
+}
+
+.takabtn {
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.taka {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 10px;
+    font-weight: normal;
+    gap: 40px;
+}
+
+.donate-input {
+    margin-top: 20px;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+    color: #b7b7b7;
+    border: none;
+}
+
+.taka-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #3a6a51;
+    border: none;
+    border-radius: 5px;
+}
+
+/
