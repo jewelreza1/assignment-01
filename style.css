@@ -112,44 +112,39 @@
 }
 
 /* The Vision of Future styles */
-.vison-container {
+.vision-container {
     width: 1200px;
     margin: 80px auto;
 
 }
 
-.visionbox {
+.visionbox1 {
     margin-top: 30px;
-    width: 310px;
+    width: 320px;
     height: 210px;
-    background-color: #dae0f4;
-    padding: 20px 20px 20px 30px;
+    background-color: #cfe4d6;
+    padding: 20px 20px 20px 35px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-
 }
 
-.visionimg {
+.visionbox1 h1 {
     padding-bottom: 10px;
 }
 
-.visionbox,
-h1 {
+.visionbox2 p {
     padding-bottom: 10px;
 }
 
-.visionbox p {
-    padding-bottom: 10px;
 
-}
-
-.vision-btn {
+.vision-btn1 {
     padding: 7px 10px;
     border: none;
-    background-color: #7286f0;
+    background-color: #ecc851;
     color: white;
     font-size: 10px;
     border-radius: 5px;
+    margin-top: 10px;
 
 }
 
@@ -161,14 +156,17 @@ h1 {
 
 .visionbox2 {
     margin-top: 30px;
-    width: 310px;
+    width: 320px;
     height: 210px;
     background-color: #cfe4d6;
-    padding: 20px 20px 20px 30px;
+    padding: 20px 20px 20px 35px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+.visionimg{
+    padding-bottom: 10px;
 
+}
 .visionbox2 h1 {
     padding-bottom: 10px;
 }
@@ -180,10 +178,10 @@ h1 {
 .visionbox3 {
 
     margin-top: 30px;
-    width: 310px;
+    width: 320px;
     height: 210px;
     background-color: #f3edd1;
-    padding: 20px 20px 20px 30px;
+    padding: 20px 20px 20px 35px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
